@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: #666;
+    background: #888;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+}
+
+.my-brand {
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+.fuck {
+    padding: 210px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 0px;
+}
+
+.zhaopian {
+    float: right;
+    margin-top: 50px;
+    margin-left: 55px;
+    border-radius: 50%;
+}
+
+.about-style {
+    background-color: rgb(190, 186, 186);
+    color: white;
+}
+
+hr {
+    margin-top: 7px;
+    *margin: 0;
+    border: 0;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    height: 5px;
+}
+
+.demos-style {
+    padding-top: 50px;
+    background-color: gainsboro;
+    color: rgb(26, 24, 24);
+}
+
+.all {
+    background-color: grey;
+}
+
+.contact-style {
+    padding-top: 50px;
+    background-color: rgb(245, 241, 241);
+    overflow: hidden;
+}
+
+.contact-l {
+    width: 50%;
+    float: left;
+}
+
+.contact-r {
+    width: 50%;
+    float: right;
+}
+
+.demo {
+    padding: 15px;
+}
+
+footer {
+    background-color: #aaa;
+    float: left;
+    text-align: center;
+    box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.yewei {
+    background-color: rgb(19, 18, 18);
+    color: white;
+    font-size: 25px;
+}
